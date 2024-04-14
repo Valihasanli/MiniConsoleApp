@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C#MiniConsoleApp", "C#MiniConsoleApp\C#MiniConsoleApp.csproj", "{7847F1E2-F28F-4931-9611-60421C4286BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{8506E286-4A51-4E7B-A7E8-52DEFEE76769}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7847F1E2-F28F-4931-9611-60421C4286BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7847F1E2-F28F-4931-9611-60421C4286BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7847F1E2-F28F-4931-9611-60421C4286BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7847F1E2-F28F-4931-9611-60421C4286BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8506E286-4A51-4E7B-A7E8-52DEFEE76769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8506E286-4A51-4E7B-A7E8-52DEFEE76769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8506E286-4A51-4E7B-A7E8-52DEFEE76769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8506E286-4A51-4E7B-A7E8-52DEFEE76769}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {916186B3-346D-4220-B871-B0636EF30F59}
+	EndGlobalSection
+EndGlobal
